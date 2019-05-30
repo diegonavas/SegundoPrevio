@@ -1,0 +1,10 @@
+#nuevo{
+	position: relative;
+	left: 200px;
+	bottom: 45px;
+}
+
+#campo{
+	width: 350px; 
+	height: 50px;
+}

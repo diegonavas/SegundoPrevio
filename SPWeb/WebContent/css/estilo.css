@@ -1,0 +1,138 @@
+header{
+	
+}
+
+#campo{
+	width: 350px; 
+	height: 50px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	
+}
+
+#cancelar{
+	position: relative;
+	left: 200px;
+	bottom: 62px;
+}
+
+#guardar{
+	width: 150px;
+}
+
+button {
+
+position: relative;
+left: 20px;
+}
+
+#volver {
+	float: none;
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+
+.redes {
+	float: none;
+	text-align: center;
+}
+
+.politicas {
+	border: solid 2px black;
+	background: #f8f9fa;
+	color: #ffffff;
+	padding: 4px;
+	width: 600px;
+	height: 500px;
+	overflow: auto;
+	">
+}
+
+p {
+	color: black;
+}
+
+h4 {
+	color: #14b9d3;
+}
+
+#none {
+	color: black;
+}
+
+#perfil {
+	border-radius: 1000px;
+	width: 300px;
+	height: 300px;
+	margin: auto;
+	display: block;
+}
+
+.caja {
+	width: 900px;
+}
+
+#btnPublicar {
+	position: relative;
+	bottom: 77px;
+	left: 450px;
+	height: 40px;
+	width: 100px;
+}
+
+footer {
+	text-align: center;
+}
+
+#boton {
+	border: 2px solid transparent; /*anchura, estilo y color borde*/
+	padding: 0; /*espacio alrededor texto*/
+	background-color: #778899; /*color botón*/
+	color: #7A0707; /*color texto*/
+	text-decoration: none; /*decoración texto*/
+	text-transform: uppercase; /*capitalización texto*/
+	font-family: 'Helvetica', sans-serif;
+}
+
+#boton2 {
+	border: 2px solid transparent; /*anchura, estilo y color borde*/
+	padding: 0; /*espacio alrededor texto*/
+	background-color: #778899; /*color botón*/
+	color: #7A0707; /*color texto*/
+	text-decoration: none; /*decoración texto*/
+	font-family: 'Helvetica', sans-serif;
+}
+
+table{
+	margin: auto;
+	text-align: center;
+}
+@media screen and (min-width: 800px) and (max-width: 1024px) {
+	header {
+		background-color: red;
+	}
+}
+
+@media screen and (min-width: 800px) and (max-width: 1024px) {
+	header {
+		background-color: red;
+	}
+}
+
+@media screen and (min-width: 800px) and (max-width: 1024px) {
+	section {
+		width: 100%;
+	}
+}
+
+@media screen and (min-width: 800px) and (max-width: 1024px) {
+	aside {
+		width: 100%;
+	}
+}
